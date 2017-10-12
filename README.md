@@ -1,4 +1,10 @@
 # Jsoup Demo Parse HTML
+
+## Set up
+```
+compile 'org.jsoup:jsoup:1.10.3'
+```
+## code
 ```
  @Background
     public void getHtml(String url) {
@@ -104,4 +110,4 @@
 </div>
 ```
 
-![img](https://github.com/dinhtho/expandable-header-recyclerview/blob/master/image.png)
+![img](https://github.com/dinhtho/JsoupAndroid/blob/master/image.png)
